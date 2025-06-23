@@ -1,0 +1,18 @@
+{
+    "signal_0": {
+        "min_green_time": 10,
+        "max_green_time": 80
+    },
+    "signal_1": {
+        "min_green_time": 10,
+        "max_green_time": 80
+    },
+    "signal_2": {
+        "min_green_time": 10,
+        "max_green_time": 80
+    },
+    "signal_3": {
+        "min_green_time": 10,
+        "max_green_time": 80
+    }
+}
